@@ -1,0 +1,12 @@
+
+
+
+
+cd "C:\Users\asus\OneDrive\Desktop\Hair_Tracker_AI-main\Hair_Tracker_AI\StreamlitApp"
+
+
+
+ .\venv310\Scripts\activate
+
+python -m streamlit run Home.py
+
